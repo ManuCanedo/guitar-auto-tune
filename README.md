@@ -1,3 +1,3 @@
 # GuitarAutoTune
 
-This code was developed by a multidisciplinary team. It was executed in a Raspberry Pi, connected to a microphone and an engine. My main contribution to the code was the real time fundamental frequency detection algorithm (based in HPS) and audio filters. 
+This code was developed by a multidisciplinary team. It calculates the fundamental frequency of the captured sound per sample and then sent controls to an electrical engine conected to the guitar keys. It was executed in a Raspberry Pi. My main contributions to the code were the real time fundamental frequency detection algorithm (based in HPS) and audio filters.
