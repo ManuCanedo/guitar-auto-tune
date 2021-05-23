@@ -1,4 +1,4 @@
-# GuitarAutoTune
+# Guitar Auto Tune
 
 This scripts were executed by a Raspberry-Pi. The core algorithm calculates the fundamental frequency of the sound captured through a sound card. Then it sends movement commands to an electrical engine that turns the guitar keys. It, altogether, could be controlled by an android app communicating with the core system through RPC calls. 
 
